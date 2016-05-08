@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.kaznowski.hugh</groupId>
-    <artifactId>algo-showdown</artifactId>
+    <artifactId>fp-solve-me-first</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>algo-showdown</name>
+    <name>fp-solve-me-first</name>
     <url>http://maven.apache.org</url>
 
     <properties>

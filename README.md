@@ -12,3 +12,15 @@ Consequently, the structure I have chosen is as follows:
 
 Regarding package names, they should all follow `com.kaznowski.hugh.service.problem` regardless of language
 
+## Building
+
+### JVM
+
+Most JVM solutions are going to be maven jar builds.
+You can run them with
+```
+mvn clean install
+java -jar target/*SNAPSHOT.jar
+```
+
+It is possible that future solutions will be built with gradle as I would like to learn it more

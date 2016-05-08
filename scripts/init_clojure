@@ -1,0 +1,4 @@
+#!/bin/bash
+mvn archetype:generate -DarchetypeArtifactId=clojure-maven-archetype \
+                       -DarchetypeGroupId=tk.skuro \
+                       -DarchetypeVersion=1.1
