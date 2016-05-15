@@ -6,6 +6,7 @@ This is a project demonstrating my abilities in algorithms and languages.
 This project is very broad and while I would like to keep it simple with a single maven build, that isn't possible if I want to throw in Python, Go or Haskell.
 
 Consequently, the structure I have chosen is as follows:
+
 1. service (Hacker Rank, SPOJ, Facebook Hack Cup etc.)
 1. problem (a unique code or identifier)
 1. language
@@ -24,3 +25,7 @@ java -jar target/*SNAPSHOT.jar
 ```
 
 It is possible that future solutions will be built with gradle as I would like to learn it more
+
+### Clojure builds
+It is possible to create leinigen builds using the init_clojure script, however
+all my clojure solutions aren't projects, only single scripts that can be run with `clojure solution.clj`
