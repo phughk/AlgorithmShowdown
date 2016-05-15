@@ -29,3 +29,9 @@ It is possible that future solutions will be built with gradle as I would like t
 ### Clojure builds
 It is possible to create leinigen builds using the init_clojure script, however
 all my clojure solutions aren't projects, only single scripts that can be run with `clojure solution.clj`
+
+If that doesn't work then source the file in clojure like so
+```
+clojure
+(load-file "solution.clj")
+```
