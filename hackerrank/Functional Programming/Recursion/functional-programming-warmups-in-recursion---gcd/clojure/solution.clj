@@ -7,3 +7,9 @@
       (gcd (- x y) y)
       ))
   )
+
+(println 
+  (apply gcd
+         (map read-string (re-seq #"\d+" (read-line)))
+         )
+  )
