@@ -11,3 +11,5 @@ buildNumber.properties
 # Intellij IDEA
 **/.idea/
 **/*.iml
+**/*.swp
+**/*.o
