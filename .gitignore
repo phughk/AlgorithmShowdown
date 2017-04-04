@@ -13,3 +13,5 @@ buildNumber.properties
 **/*.iml
 **/*.swp
 **/*.o
+solution
+**/*.hi
