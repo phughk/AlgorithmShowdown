@@ -1,0 +1,1 @@
+incomplete - pascals triangle, haskell
